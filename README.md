@@ -1,8 +1,11 @@
 # Simon Game — Mini Web Project
 
 A small **HTML/CSS/JavaScript** recreation of the classic **Simon memory game**. The game generates a growing color sequence; you repeat it by clicking the colored buttons. One mistake ends the run and shows your score!
+<img width="2544" height="1304" alt="image" src="https://github.com/user-attachments/assets/48e6165c-bd6b-4827-9e45-9a1a2a21e1ae" />
+
 
 ## Live Demo (GitHub Pages)
+Play it here: https://artembrandt03.github.io/Simon-Game/
 
 ## Features
 - Random sequence generation (4 colors)
